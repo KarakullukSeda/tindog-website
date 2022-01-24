@@ -141,6 +141,7 @@ p {
   .title-image {
     position: static;
     transform: rotate(0);
-    padding: 40px 0 0 0;
+    padding: 10px 0 0 0;
+    width: 20%;
   }
 }
